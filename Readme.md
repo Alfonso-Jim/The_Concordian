@@ -7,5 +7,7 @@
 	3. 	Bradley Morgan	
 	4. 	Gloria Vinton	
 	5. 	Lonnie Bowe	
+	
+### Make sure you check out Documentation
 
-## A version of it can be downloaded [here](https://drive.google.com/file/d/1x8Q8JOBWiilLtmGGH9VWOHZoV4UjSEG-/view?usp=sharing) for testing purposes
+#### A version of it can be downloaded [here](https://drive.google.com/file/d/1x8Q8JOBWiilLtmGGH9VWOHZoV4UjSEG-/view?usp=sharing) for testing purposes
